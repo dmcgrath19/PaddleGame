@@ -1,6 +1,5 @@
 /*
-Extra credit 1:
-Modify your program so that the speed and direction of movement of the bat affects
+Advanced Game: speed and direction of movement of the bat affects
 the trajectory of the ball when struck.
 */
 
