@@ -1,6 +1,6 @@
 /*
-Modify your program so that the ball speeds up and the computer player gets better
-over time. Show the current speed on the screen.
+Advanced: ball speeds up and the computer player gets better
+over time(Speed shown on screen).
 */
 
 final int SCREENX = 320;
