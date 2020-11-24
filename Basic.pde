@@ -1,7 +1,5 @@
 /*
-4. Count the number of lives (hint: create an attribute and method in player). If the
-computer wins three times, a game over message is displayed. If the player wins three
-times, a different message is displayed. (2 marks).
+Basic Paddle Game. Outcome of first to three is displayes.
 */
 
 final int SCREENX = 320;
